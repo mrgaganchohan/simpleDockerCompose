@@ -11,6 +11,6 @@
  http://localhost:8000/api/note/ using postman and post
 
 
-## To run this
+## To run the flask project
  
 python manage.py runserver
